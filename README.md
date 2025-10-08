@@ -38,15 +38,15 @@ This task simulates a common Help Desk responsibility — setting up accounts fo
 1. **Opened Active Directory Users and Computers Opened and created a Organizational Unit (OU)**  
    🧭<img width="1704" height="890" alt="Screenshot 2025-10-08 081614" src="https://github.com/user-attachments/assets/ae182a70-ba6a-491a-9748-86e1b3b890ce" />
 
-  **Purpose** Confirms you accessed the AD management tool.
+  **Caption:** Confirms you accessed the AD management tool.
 
 2. **Create a New User**  
    👤 <img width="1709" height="888" alt="Screenshot 2025-10-08 084506" src="https://github.com/user-attachments/assets/7ca888bf-9282-48af-a201-227d78c8151b" />
 
-   **Purpose:** Demonstrates correct use of the new user creation wizard and verifies understanding of password and account policy options.
+   **Caption:** Demonstrates correct use of the new user creation wizard and verifies understanding of password and account policy options.
 
 3. **User Created in OU**  
    ✅ <img width="1702" height="893" alt="Screenshot 2025-10-08 084937" src="https://github.com/user-attachments/assets/2d54b4ba-b178-44a0-9323-be7599226d8d" />
 
-   **Purpose:** Confirms successful account creation and organization.
+   **Caption:** Confirms successful account creation and organization.
 
