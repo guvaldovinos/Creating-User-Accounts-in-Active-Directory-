@@ -19,7 +19,7 @@ This task simulates a common Help Desk responsibility — setting up accounts fo
 1. Opened **Active Directory Users and Computers (ADUC)** from Server Manager.  
 2. Navigated to the **Users** container 
 3. Selected **New → User** to start the account creation wizard.  
-4. Entered the user’s *first name, last name, and logon name*
+4. Entered the user’s *first name, last name, and logon name* for this example I altered my first name from Guillermo to "Guiillermo"
 5. Set an **initial password** and configured password options (e.g., “User must change password at next logon”).  
 6. Verified that the new user appeared under the **Users** container.
 
