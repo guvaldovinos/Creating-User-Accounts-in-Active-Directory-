@@ -19,7 +19,7 @@ This task simulates a common Help Desk responsibility — setting up accounts fo
 1. Opened **Active Directory Users and Computers (ADUC)** from Server Manager.  
 2. Navigated to the **Users** container 
 3. Selected **New → User** to start the account creation wizard.  
-4. Entered the user’s *first name, last name, and logon name* for this example I altered my first name from Guillermo to "Guiillermo"
+4. Entered the user’s *first name, last name, and logon name* 
 5. Set an **initial password** and configured password options (e.g., “User must change password at next logon”).  
 6. Verified that the new user appeared under the **Users** container.
 
@@ -41,12 +41,14 @@ This task simulates a common Help Desk responsibility — setting up accounts fo
   **Caption:** Confirms you accessed the AD management tool.
 
 2. **Create a New User**  
-   👤 <img width="1709" height="888" alt="Screenshot 2025-10-08 084506" src="https://github.com/user-attachments/assets/7ca888bf-9282-48af-a201-227d78c8151b" />
+   👤 <img width="1704" height="881" alt="Screenshot 2025-10-08 112127" src="https://github.com/user-attachments/assets/5613f71c-a91b-4583-9d9b-c3461ff77227" />
+
 
    **Caption:** Demonstrates correct use of the new user creation wizard and verifies understanding of password and account policy options.
 
 3. **User Created in OU**  
-   ✅ <img width="1702" height="893" alt="Screenshot 2025-10-08 084937" src="https://github.com/user-attachments/assets/2d54b4ba-b178-44a0-9323-be7599226d8d" />
+   ✅ <img width="1711" height="886" alt="Screenshot 2025-10-08 112148" src="https://github.com/user-attachments/assets/4d95d8a9-f190-4b19-a785-4898ebbe6e00" />
+
 
    **Caption:** Confirms successful account creation and organization.
 
